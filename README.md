@@ -10,10 +10,9 @@
 
 | Role          | Name                | Contact Number | Email Address                      |
 |---------------|---------------------|----------------|------------------------------------|
-| Team Leader   | Lakshya Mishra      | 8770222006     | lakshyamishra099@gmail.com         |
-| Member 1      | Anugrah Sharma      | 8770222006     | anuash130c@gmail.com               |
-| Member 2      | M. Raja Rao Reddy   | 8770761851     | vickyreddybro2004@gmail.com        |
-| Member 3      | Lasika Rathore      | 8878845677     | lasika07082004@gmail.com           |
+| Member 1      | Anuj Singh Rathore  | 7974688858     | rathoreanujsingh87@gmail.com       |
+| Member 2      | Mahi Vishwakarma    | 7879291732     | vishwakarmamaahi2@gmail.com        |
+
 
 ---
 
